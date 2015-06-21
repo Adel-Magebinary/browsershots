@@ -1,0 +1,1 @@
+This software makes screenshots of your web design in different browsers. When you submit your web address, it is added to the job queue. Several distributed computers open your website in their browser. Then they take screenshots and upload them to the central server.

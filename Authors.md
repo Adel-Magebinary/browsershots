@@ -1,0 +1,11 @@
+Browsershots was invented and written by Johann C. Rocholl.
+
+## Contributors ##
+
+Thanks for patches go to the following contributors, listed alphabetically.
+
+  * Andreas Schönfelder
+  * Marcin Król
+  * Nicko van Someren
+
+If you want to be mentioned here, please [send email](mailto:johann@browsershots.org).

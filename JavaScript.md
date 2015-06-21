@@ -1,0 +1,1 @@
+A scripting language produced by Netscape for use within HTML Web pages. Don't confuse JavaScript with Java.
